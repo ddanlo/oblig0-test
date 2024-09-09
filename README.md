@@ -7,3 +7,6 @@ OS Info:
 	
 Git Versjon:
 	2.46.0
+
+ GitHub brukernavn: 
+	ddanlo
